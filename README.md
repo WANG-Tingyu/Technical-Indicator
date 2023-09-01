@@ -1,4 +1,6 @@
 # Project: Study the effectiveness of technical analysis indicator in Cryptocurrencies
+- :star2: **Found this repository helpful?** Light it up with a star :star2: and make my day! :wink:
+
 Data:
 Use ccxt package https://github.com/ccxt/ccxt in python to download two type of cryptocurrencies (‘BTC/USDT’ and ‘ETH/USDT’) bar data (daily, hourly) from Binance exchange.
 
@@ -265,6 +267,7 @@ cross_signal_bench:{[m]
 - EMA outperformed MACD in both daily and hourly trading of Bitcoin and Ethereum, with better cumulative returns and win ratios. Although these strategies showed promising results, their effectiveness has declined since 2021, possibly due to changes in market conditions or increased volatility.
 - Despite these results, it is crucial to guard against overfitting. To improve the analysis, consider testing the strategies on out-of-sample data to minimize overfitting and validate the strategies' effectiveness in different market conditions.
 
-
+---
+- :star2: **Found this repository helpful?** Light it up with a star :star2: and make my day! :wink:
 
 
